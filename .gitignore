@@ -1,0 +1,7 @@
+build/
+*.exe*
+*.bin
+
+mpp1/
+mpp2/
+mpp4/
